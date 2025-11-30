@@ -1,0 +1,4 @@
+runpod
+numpy
+librosa
+soundfile
